@@ -20,9 +20,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-/**
- * Created by zanabucinca on 16/04/15.
- */
+
 public class RouteFragment extends Fragment {
 
     public interface OnRouteSelectedListener{ public void routeSelected(String route);}

@@ -2,9 +2,7 @@ package com.example.zanabucinca.vantrackv10;
 
 import android.location.Location;
 
-/**
- * Created by zanabucinca on 16/04/15.
- */
+
 public abstract class User {
 
     private String mode;
