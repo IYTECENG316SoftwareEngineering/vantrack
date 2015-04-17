@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VanTrack v1.0</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="action_settings">Settings</string>
+    <string name="user">User</string>
+    <string name="driver">Driver</string>
+</resources>
