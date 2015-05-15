@@ -1,0 +1,8 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+    <header android:fragment="com.example.zanabucinca.vantrackv10.Views.UserPreferenceFragment"
+            android:title="Preferences"
+            android:summary="User Preferences" />
+    <header android:fragment="com.example.zanabucinca.vantrackv10.Views.PrivacyPreferenceFragment"
+            android:title="Privacy"
+            android:summary="Privacy Settings" />
+</preference-headers>
