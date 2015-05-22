@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="routes_array">
+        <item>URLA-IYTE</item>
+        <item>IYTE-URLA</item>
+        <item>URLA-IZMIR</item>
+        <item>IZMIR-URLA</item>
+        <item>IYTE-IZMIR</item>
+        <item>IZMIR-IYTE</item>
+    </string-array>
+</resources>
